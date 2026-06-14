@@ -1,0 +1,38 @@
+Day-1 (Html basics)
+// Html- Hpertext markup language 
+it is used to structure a web page and its contents
+
+//boilerplate code
+<!Doctype html>-- this particular line tells the document which bersion of html we are using taht is html5.
+<head>  --- head tag is sued to contain the meta data (data about data) it contains information taht we dont want to show on our browser but we want to keep the info it also contain linking info like how we  are styling the page and what we are using to add the functionalities
+
+ <title> my first page </title> -- we need to keep the title appropriate coz title is shown in teh serch bar 
+</head>
+
+<body> -- body tag contain all the content that is going to be shown on  the browser
+
+<p> hello world</p>
+
+</body>
+
+</html> -- every tag has opening and closing
+
+// tags 
+a container for some content or other html tags
+ a tag insid e a tag is known as * nested tags*
+
+
+// Attribute
+
+attributes are used to add more information
+
+for ex- <html> lang = "en"
+here lang is a attribute that is telling that which language we are using taht is english 
+
+// Types of tags
+
+// paragraph tag - <p> </p>  use to add para graph in html 
+
+// heading tag
+
+there are avrious tyoe of heading tag starying grom h1 to h6 where h1 represent the largest heading and h6 represent the smallest heading 
