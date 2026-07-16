@@ -1,2 +1,1 @@
-# wanderLust
-A full-stack web application connecting property renters with travelers.
+here are all my learning.
